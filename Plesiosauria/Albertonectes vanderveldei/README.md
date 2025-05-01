@@ -25,6 +25,7 @@ Measurements of the limbs are from [^1]. Estimated values (using the chord-flipp
 | forelimb | 400 mm           | 226 mm          | $\star$ 1279 mm |
 | hindlimb | 380 mm           | 224 mm          | $\star$ 1267 mm |
 
+![image](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/blob/main/Plesiosauria/Albertonectes%20vanderveldei/Albertonectes%20vanderveldei.pdf)
 
 [^1]: [*Albertonectes vanderveldei*, a new elasmosaur (Reptilia, Sauropterygia) from the Upper Cretaceous of Alberta](https://doi.org/10.1080/02724634.2012.658124)
 [^2]: [Revised Vertebral Count in the “Longest-Necked Vertebrate” *Elasmosaurus platyurus* Cope 1868, and Clarification of the Cervical-Dorsal Transition in Plesiosauria](https://doi.org/10.1371/journal.pone.0070877)
