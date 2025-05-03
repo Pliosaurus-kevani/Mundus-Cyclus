@@ -16,7 +16,7 @@ pectorals: V13 ~ 14;
 dorsals: V15, V16, V18 ~ 22, V26 ~ 29, V32, V33, V35 ~ 43;  
 
 The BSL and the vertebral measurements are from [^4]. The intervertebral distances were restored according to the criteria proposed in 
-[Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844). The trunk length was estimated using the $\frac{\text{P+D+S1}}{\text{trunk}}$ ratio of the *Sachicasaurus vitae* model. The tail length was estimated using the trunk-tail formula, with 5% extra tail length representing soft tissues added.
+[Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844). The trunk length was estimated using the $\frac{\text{P+D+S1}}{\text{trunk}}$ ratio of the [*Sachicasaurus vitae* model](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/tree/main/Plesiosauria/Sachicasaurus%20vitae). The tail length was estimated using the trunk-tail formula, with 5% extra tail length representing soft tissues added.
 
 The estimated length of each body section is:
 | BSL    | cervicals | pectorals | dorsals | sacral 1 | trunk   | tail   | total   |
