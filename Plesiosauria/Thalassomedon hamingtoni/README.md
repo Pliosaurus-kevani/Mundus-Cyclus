@@ -1,10 +1,10 @@
-# *Thalassomedon hamingtoni*
+# *Thalassomedon haningtoni*
 
 - creator: [Ruizhe Jackevan Zhao](https://orcid.org/0009-0001-4869-3008) 
 - last update: 2025/05/04
 - related manuscript: [Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844)
 - contact: JackevanChaos@outlook.com
-- model link: [*Thalassomedon hamingtoni*](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/blob/main/Plesiosauria/Thalassomedon%20hamingtoni/Thalassomedon%20haningtoni.pdf)
+- model link: [*Thalassomedon haningtoni*](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/blob/main/Plesiosauria/Thalassomedon%20haningtoni/Thalassomedon%20haningtoni.pdf)
 
 **note: see [Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844) for abbreviations and reconstruction criteria.**
 ## Model Construction
