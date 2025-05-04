@@ -16,7 +16,7 @@ The BSL was measured from the reconstruction provided in [^1]. The vertebral for
 (which also possesses 43 cervical[^3]) to estimate the total length of the cervical series. The dimensions of dorsal vertebrae were compared with those of *Thalasomedon haningtoni*, which has 25 dorsals[^4]. The tail was reconstructed by scaling the articulated caudal
 series of SGO.PV.260[^1], with lengths of the missing caudals restored based on the anteriormost one in the preserved series. 5% extra tail length representing soft tissues was added.
 
-Estimated length of each region along the main axis is:
+The estimated length of each region along the main axis is:
 | BSL    | cervicals | pectorals | dorsals | sacrals | trunk   | caudals    | total   |
 |:------:|:---------:|:---------:|:-------:|:--------:|:-------:|:-------:|:-------:|
 | 574 mm | 3590 mm   | 332 mm    | 2377 mm | 221 mm    | 2773 mm | 2906 mm | 10000 mm |
