@@ -15,7 +15,7 @@ Lengths of different postcranial regions were measured along the ventral side of
 with 5% extra tail length representing soft tissue added. The SKL was estimated using the skull-neck formula,
 and the BSL/SKL ratio of *Thalassomedon hanningtoni* was used to compute the BSL[^3]. 
 
-Estimated length of each region along the main axis is:
+The estimated length of each region along the main axis is:
 | BSL    | cervical | pectorals+dorsals+sacral 1 | trunk   | tail    | total    |
 |:------:|:--------:|:--------------------------:|:-------:|:-------:|:--------:|
 | 394 mm | 7131 mm  | 2213 mm                    | 2205 mm | 2384 mm | 12122 mm |
