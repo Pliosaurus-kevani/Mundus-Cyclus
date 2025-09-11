@@ -1,7 +1,7 @@
 # *Martinectes bonneri*
 
 - creator: [Ruizhe Jackevan Zhao](https://orcid.org/0009-0001-4869-3008) 
-- last update: 2025/05/04
+- last update: 2025/09/11
 - related manuscript: [Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844)
 - contact: JackevanChaos@outlook.com
 - model link: [*Martinectes bonneri*](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/blob/main/Plesiosauria/Martinectes%20bonneri/Martinectes%20bonneri.pdf)
@@ -26,7 +26,7 @@ extra tail length representing soft tissues was added.
 The  measured or estimated length of each body section is
 | BSL    | cervicals | pectorals+dorsals | sacral 1 | trunk   | tail    | total   |
 |:------:|:---------:|:-----------------:|:--------:|:-------:|:-------:|:-------:|
-| 846 mm | 815 mm    | 1595 mm           | 64 mm    | 1653 mm | 1627 mm | 4947 mm |
+| 846 mm | 815 mm    | 1595 mm           | 64 mm    | 1653 mm | 1616 mm | 4936 mm |
 
 Measurements of the limbs of KUVP 40002 are from [^1]. Estimated values (using the chord-flipper formula provided in [^7]) are marked
 with a $\star$:
