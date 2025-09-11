@@ -1,7 +1,7 @@
 # *Liopleurodon ferox*
 
 - creator: [Ruizhe Jackevan Zhao](https://orcid.org/0009-0001-4869-3008) 
-- last update: 2025/05/03
+- last update: 2025/09/11
 - related manuscript: [Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844)
 - contact: JackevanChaos@outlook.com
 - model link: [*Liopleurodon ferox*](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/blob/main/Plesiosauria/Liopleurodon%20ferox/Liopleurodon%20ferox.pdf)
