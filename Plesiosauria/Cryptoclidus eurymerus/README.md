@@ -1,7 +1,7 @@
 # *Cryptoclidus eurymerus*
 
 - creator: [Ruizhe Jackevan Zhao](https://orcid.org/0009-0001-4869-3008) 
-- last update: 2025/05/01
+- last update: 2025/09/11
 - related manuscript: [Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844)
 - contact: JackevanChaos@outlook.com
 - model link: [*Cryptoclidus eurymerus*](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/blob/main/Plesiosauria/Cryptoclidus%20eurymerus/Cryptoclidus%20eurymerus.pdf)
@@ -13,12 +13,12 @@
 This model is based on the neotype NHMUK PV R2860. The presacral vertebral formula is 32 cervicals+3 pectorals+20 dorsals.
 No study provided complete measurements of the cervical series of NHMUK PV R2860,
 hence the cervical region was reproduced from the reconstruction provided in [^1].
-The  pectoral and dorsal vertebral measurements and the restored spinal curvature provided in [^2] were employed in the current reconstruction. The tail length was estimated using the trunk-tail equation, with 5% extra tail length representing soft tissues added.
+The  pectoral and dorsal vertebral measurements and the restored spinal curvature provided in [^2] were employed in the current reconstruction. The tail length was estimated using the trunk-tail proportion of the mount IGPB R 324, with 5% extra tail length representing soft tissues added.
 
 Estimated length of each region along the main axis is:
 | BSL+cervicals | pectorals | dorsals | sacral 1 | trunk   | tail    | total   |
 |:------:|:---------:|:-------:|:--------:|:-------:|:-------:|:-------:|
-| 1410 mm   | 126 mm    | 968 mm | 48 mm    | 1133 mm | 1201 mm | 3753 mm |
+| 1410 mm   | 126 mm    | 968 mm | 48 mm    | 1133 mm | 990 mm | 3542 mm |
 
 Measurements of the limbs of NHMUK R2860 are from [^3]. The limb lengths were restored according to NHMUK PV R8575 (restored in [^4]) and NHMUK PR R3703[^3].
 
