@@ -1,7 +1,7 @@
 # *"Monquirasaurus" boyacensis*
 
 - creator: [Ruizhe Jackevan Zhao](https://orcid.org/0009-0001-4869-3008) 
-- last update: 2025/05/04
+- last update: 2025/09/11
 - related manuscript: [Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844)
 - contact: JackevanChaos@outlook.com
 - model link: [*"Monquirasaurus" boyacensis*](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/blob/main/Plesiosauria/%22Monquirasaurus%22%20boyacensis/%E2%80%9CMonquirasaurus%E2%80%9D%20boyacensis.pdf)
@@ -25,7 +25,7 @@ added.
 The measured or estimated length of each body section is:
 | SKL     | remaining cervicals+pectorals | dorsals+sacral 1 | trunk   | tail    | total   |
 |:-------:|:-----------------------------:|:----------------:|:-------:|:-------:|:-------:|
-| 2450 mm | 908 mm                        | 3091 mm          | 3010 mm | 2631 mm | 9080 mm |
+| 2450 mm | 908 mm                        | 3091 mm          | 3010 mm | 2661 mm | 9110 mm |
 
 The limb measurements are from [^1][^2]:
 |          | propodial length | chord propodial | total length   |
