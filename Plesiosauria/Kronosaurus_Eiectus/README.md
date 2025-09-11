@@ -21,7 +21,7 @@ The BSL and the vertebral measurements are from [^4]. The intervertebral distanc
 The estimated length of each body section is:
 | BSL    | cervicals | pectorals | dorsals | sacral 1 | trunk   | tail   | total   |
 |:------:|:---------:|:---------:|:-------:|:--------:|:-------:|:-------:|:-------:|
-| 2210 mm | 1471 mm   | 222 mm    | 3265 mm | 149 mm    | 3615 mm | 3047 mm | 10364 mm |
+| 2210 mm | 1471 mm   | 222 mm    | 3265 mm | 149 mm    | 3615 mm | 3099 mm | 10416 mm |
 
 The limb measurements are from [^3]. The forelimbs of MCZ 1285 are not preserved, and the humerus length was estimated using the humerus/femur proportion of QM F10113[^4]. Estimated values are marked with a $\star$:
 |          | propodial length | chord propodial | total length   |
