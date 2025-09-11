@@ -1,7 +1,7 @@
 # *Hydrotherosaurus alexandrae*
 
 - creator: [Ruizhe Jackevan Zhao](https://orcid.org/0009-0001-4869-3008) 
-- last update: 2025/05/03
+- last update: 2025/09/11
 - related manuscript: [Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844)
 - contact: JackevanChaos@outlook.com
 - model link: [*Hydrotherosaurus alexandrae*](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/blob/main/Plesiosauria/Hydrotherosaurus%20alexandrae/Hydrotherosaurus%20alexandrae.pdf)
@@ -15,7 +15,7 @@ This model is based on the individual UCMP 33912. The vertebral formula is 60 ce
 The estimated or measured length of each body section is:
 | BSL    | cervicals | pectorals | dorsals | sacrals | trunk   | tail    | total   |
 |:------:|:---------:|:---------:|:-------:|:--------:|:-------:|:-------:|:-------:|
-| 330 mm | 4759 mm   | 196 mm    | 1614 mm | 85 mm    | 1888 mm | 1810 mm | 8794 mm |
+| 330 mm | 4759 mm   | 196 mm    | 1614 mm | 85 mm    | 1888 mm | 1805 mm | 8789 mm |
 
 Measurements of the limbs are from [^1]. Estimated values (using the chord-flipper formula provided in [^3]) are marked with a $\star$:
 |          | propodial length | chord propodial | total length   |
