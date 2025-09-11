@@ -1,7 +1,7 @@
 # *Vegasaurus molyi*
 
 - creator: [Ruizhe Jackevan Zhao](https://orcid.org/0009-0001-4869-3008) 
-- last update: 2025/05/04
+- last update: 2025/09/11
 - related manuscript: [Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844)
 - contact: JackevanChaos@outlook.com
 - model link: [*Vegasaurus molyi*](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/blob/main/Plesiosauria/Vegasaurus%20molyi/Vegasaurus%20molyi.pdf)
@@ -18,7 +18,7 @@ extra tail length representing soft tissues was added.
 The estimated length of each body section is
 | BSL    | cervicals | pectorals | dorsals | sacral 1 | trunk   | tail   | total   |
 |:------:|:---------:|:---------:|:-------:|:--------:|:-------:|:-------:|:-------:|
-| 262 mm | 3052 mm   | 198 mm    | 1155 mm | 66 mm    | 1414 mm | 1435 mm | 6168 mm |
+| 262 mm | 3052 mm   | 198 mm    | 1155 mm | 66 mm    | 1414 mm | 1419 mm | 6152 mm |
 
 The limb measurements are from [^1]. Estimated values (using the chord-flipper formula provided in [^4]) are marked with a $\star$:
 |          | propodial length | chord propodial | total length   |
