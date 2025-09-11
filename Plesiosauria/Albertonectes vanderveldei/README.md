@@ -1,7 +1,7 @@
 # *Albertonectes vanderveldei*
 
 - creator: [Ruizhe Jackevan Zhao](https://orcid.org/0009-0001-4869-3008) 
-- last update: 2025/05/01
+- last update: 2025/09/11
 - related manuscript: [Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844)
 - contact: JackevanChaos@outlook.com
 - model link: [*Albertonectes vanderveldei*](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/blob/main/Plesiosauria/Albertonectes%20vanderveldei/Albertonectes%20vanderveldei.pdf)
@@ -23,7 +23,7 @@ The estimated length of each region along the main axis is:
 Measurements of the limbs are from [^1]. Estimated values (using the chord-flipper formula provided in [^4]) are marked with a $\star$:
 |          | propodial length | chord propodial | total length   |
 |:--------:|:----------------:|:---------------:|:--------------:|
-| forelimb | 400 mm           | 226 mm          | $\star$ 1279 mm |
+| forelimb | 400 mm           | 226 mm          | 1464 mm |
 | hindlimb | 380 mm           | 224 mm          | $\star$ 1267 mm |
 
 [^1]: [*Albertonectes vanderveldei*, a new elasmosaur (Reptilia, Sauropterygia) from the Upper Cretaceous of Alberta](https://doi.org/10.1080/02724634.2012.658124)
