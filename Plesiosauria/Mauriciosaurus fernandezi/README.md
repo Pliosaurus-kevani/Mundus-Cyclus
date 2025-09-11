@@ -18,7 +18,7 @@ with 5% extra tail length representing soft tissues added.
 The estimated or measured length of each body section is:
 | BSL    | cervicals | pectorals+dorsals+sacral 1 | trunk  | tail   | total   |
 |:------:|:---------:|:--------------------------:|:------:|:------:|:-------:|
-| 372 mm | 442 mm    | 590 mm                     | 588 mm | 684 mm | 2008 mm |
+| 372 mm | 442 mm    | 590 mm                     | 588 mm | 684 mm | 2088 mm |
 
 The limb measurements are from [^1]:
 |          | propodial length | chord propodial | total length   |
