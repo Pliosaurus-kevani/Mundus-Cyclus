@@ -39,7 +39,7 @@ Therefore, the tail length was estimated using the trunk-tail formula, with 5% e
 The measured or estimated length of each body section is:
 | BSL    | cervicals | pectorals+dorsals | sacral 1 | trunk   | tail    | total   |
 |:------:|:---------:|:---------:|:--------:|:-------:|:-------:|:-------:|
-| 920 mm | 1090 mm   | 1886 mm    | 73 mm | 1948 mm    | 1856 mm | 5825 mm | 
+| 920 mm | 1090 mm   | 1886 mm    | 73 mm | 1948 mm    | 1853 mm | 5822 mm | 
 
 The limb measurements are from [^1]. Estimated values (using the chord-flipper formula provided in [^5]) are marked with a $\star$:
 |          | propodial length | chord propodial | total length   |
