@@ -1,7 +1,7 @@
 # *Styxosaurus* SDSM 451
 
 - creator: [Ruizhe Jackevan Zhao](https://orcid.org/0009-0001-4869-3008) 
-- last update: 2025/09/11
+- last update: 2025/10/15
 - related manuscript: [Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844)
 - contact: JackevanChaos@outlook.com
 - model link: [*Styxosaurus* SDSM 451](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/blob/main/Plesiosauria/Styxosaurus%20SDSM%20451/Styxosaurus%20SDSM%20451.pdf)
@@ -17,7 +17,7 @@ extra tail length representing soft tissues was added.
 The estimated length of each body section is:
 | BSL    | cervicals | pectorals | dorsals | sacral 1 | trunk   | tail   | total   |
 |:------:|:---------:|:---------:|:-------:|:--------:|:-------:|:-------:|:-------:|
-| 388 mm | 6270 mm   | 297 mm    | 2012 mm | 96 mm    | 2396 mm | 2201 mm | 11264 mm |
+| 388 mm | 6270 mm   | 297 mm    | 2012 mm | 96 mm    | 2396 mm | 2213 mm | 11276 mm |
 
 The limb measurements are from [^2]:
 |          | propodial length | chord propodial | total length   |
