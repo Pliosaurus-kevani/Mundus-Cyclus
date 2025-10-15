@@ -1,7 +1,7 @@
 # *Liopleurodon ferox*
 
 - creator: [Ruizhe Jackevan Zhao](https://orcid.org/0009-0001-4869-3008) 
-- last update: 2025/09/11
+- last update: 2025/10/15
 - related manuscript: [Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844)
 - contact: JackevanChaos@outlook.com
 - model link: [*Liopleurodon ferox*](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/blob/main/Plesiosauria/Liopleurodon%20ferox/Liopleurodon%20ferox.pdf)
@@ -39,7 +39,7 @@ Therefore, the tail length was estimated using the trunk-tail formula, with 5% e
 The measured or estimated length of each body section is:
 | BSL    | cervicals | pectorals+dorsals | sacral 1 | trunk   | tail    | total   |
 |:------:|:---------:|:---------:|:--------:|:-------:|:-------:|:-------:|
-| 920 mm | 1090 mm   | 1886 mm    | 73 mm | 1948 mm    | 1853 mm | 5822 mm | 
+| 920 mm | 1090 mm   | 1886 mm    | 73 mm | 1948 mm    | 1859 mm | 5828 mm | 
 
 The limb measurements are from [^1]. Estimated values (using the chord-flipper formula provided in [^5]) are marked with a $\star$:
 |          | propodial length | chord propodial | total length   |
