@@ -1,7 +1,7 @@
 # *Stenorhynchosaurus munozi*
 
 - creator: [Ruizhe Jackevan Zhao](https://orcid.org/0009-0001-4869-3008) 
-- last update: 2025/05/04
+- last update: 2025/10/15
 - related manuscript: [Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844)
 - contact: JackevanChaos@outlook.com
 - model link: [*Stenorhynchosaurus munozi*](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/blob/main/Plesiosauria/Stenorhynchosaurus%20munozi/Stenorhynchosaurus%20munozi.pdf)
@@ -22,7 +22,7 @@ proportion of the [*Sachicasaurus vitae* model](https://github.com/Pliosaurus-ke
 The measured or estimated length of each body section is:
 | BSL+cervicals | pectorals+dorsals+sacral 1 | trunk   | tail    | total   |
 |:-------------:|:--------------------------:|:-------:|:-------:|:-------:|
-| 1908 mm       | 2089 mm                    | 2077 mm | 1954 mm | 5951 mm |
+| 1908 mm       | 2089 mm                    | 2077 mm | 1962 mm | 5959 mm |
 
 Measurements of the limbs of VL17052004-1 are from [^1]:
 |          | propodial length | chord propodial | total length   |
