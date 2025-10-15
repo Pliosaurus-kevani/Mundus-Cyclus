@@ -1,7 +1,7 @@
 # *Sachicasaurus vitae*
 
 - creator: [Ruizhe Jackevan Zhao](https://orcid.org/0009-0001-4869-3008) 
-- last update: 2025/09/11
+- last update: 2025/10/15
 - related manuscript: [Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844)
 - contact: JackevanChaos@outlook.com
 - model link: [*Sachicasaurus vitae*](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/blob/main/Plesiosauria/Sachicasaurus%20vitae/Sachicasaurus%20vitae.pdf)
@@ -22,7 +22,7 @@ added.
 The estimated or measured length of each body section is:
 | BSL    | cervicals | pectorals | dorsals | sacral 1 | trunk   | tail   | total   |
 |:------:|:---------:|:---------:|:-------:|:--------:|:-------:|:-------:|:-------:|
-| 2288 mm | 1156 mm   | 197 mm    | 3479 mm | 121 mm    | 3775 mm | 3212 mm | 10453 mm |
+| 2288 mm | 1156 mm   | 197 mm    | 3479 mm | 121 mm    | 3775 mm | 3244 mm | 10485 mm |
 
 The limb measurements are from [^1]. Estimated values (using the chord-flipper formula provided in [^3]) are marked
 with a $\star$:
