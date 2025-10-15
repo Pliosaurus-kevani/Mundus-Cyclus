@@ -1,7 +1,7 @@
 # *Polycotylus latipinnis*
 
 - creator: [Ruizhe Jackevan Zhao](https://orcid.org/0009-0001-4869-3008) 
-- last update: 2025/09/11
+- last update: 2025/10/15
 - related manuscript: [Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844)
 - contact: JackevanChaos@outlook.com
 - model link: [*Polycotylus latipinnis*](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/blob/main/Plesiosauria/Polycotylus%20latipinnis/Polycotylus%20latipinnis.pdf)
@@ -18,7 +18,7 @@ Lengths of the unmeasurable dorsals were restored by taking the average values o
 The estimated length of each body section is 
 | BSL     | cervicals | pectorals | dorsals | sacral 1 | trunk   | tail    | total   |
 |:-------:|:---------:|:---------:|:-------:|:--------:|:-------:|:-------:|:-------:|
-| 668 mm | 1179 mm   | 184 mm    | 1381 mm | 61 mm   | 1620 mm | 1589 mm | 5062 mm |
+| 668 mm | 1179 mm   | 184 mm    | 1381 mm | 61 mm   | 1620 mm | 1592 mm | 5065 mm |
 
 The forelimb measurements are from Welles' note. The hindlimbs of YPM 1125 are not preserved, and the dimensions were estimated according to the humerus/femur proportion of *D. osborni* FHSM VP404. The flipper lengths were estimated using the 
 chord-flipper formula provided in [^4]. All estimated values are marked with a $\star$:
