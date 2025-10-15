@@ -1,7 +1,7 @@
 # *Abyssosaurus nataliae*
 
 - creator: [Ruizhe Jackevan Zhao](https://orcid.org/0009-0001-4869-3008) 
-- last update: 2025/09/11
+- last update: 2025/10/15
 - related manuscript: [Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844)
 - contact: JackevanChaos@outlook.com
 - model link: [*Abyssosaursu nataliae*](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/blob/main/Plesiosauria/Abyssosaurus%20nataliae/Abyssosaurus%20nataliae.pdf)
@@ -12,7 +12,7 @@ This model is based on the holotype of *Abyssosaurus nataliae* MChEIO PM/1. The 
 Estimated length of each region along the main axis is:
 | BSL    | cervicals | pectorals | dorsals | sacral 1 | trunk   | tail    | total   |
 |:------:|:---------:|:---------:|:-------:|:--------:|:-------:|:-------:|:-------:|
-| 274 mm | 2812 mm   | 215 mm    | 1589 mm | 66 mm    | 1853 mm | 1777 mm | 6733 mm |
+| 274 mm | 2812 mm   | 215 mm    | 1589 mm | 66 mm    | 1853 mm | 1783 mm | 6739 mm |
 
 Measurements of the limbs of are from [^1]. Estimated values (using the chord-flipper formula provided in [^4]) are marked with a $\star$:
 |          | propodial length | chord propodial | total length   |
