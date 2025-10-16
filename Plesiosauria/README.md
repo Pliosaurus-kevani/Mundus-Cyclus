@@ -1,6 +1,6 @@
 # Plesiosauria
 
-- last update: 2025/09/12
+- last update: 2025/10/15
 - maintainer: [Ruizhe Jackevan Zhao](https://orcid.org/0009-0001-4869-3008)
 - contact: JackevanChaos@outlook.com
 
