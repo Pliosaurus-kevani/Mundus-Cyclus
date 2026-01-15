@@ -1,7 +1,7 @@
 # *Dolichorhychops osborni*
 
 - creator: [Ruizhe Jackevan Zhao](https://orcid.org/0009-0001-4869-3008) 
-- last update: 2025/05/02
+- last update: 2026/01/14
 - related manuscript: [Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844)
 - contact: JackevanChaos@outlook.com
 - model link: [*Dolichorhychops osborni*](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/blob/main/Plesiosauria/Dolichorhychops%20osborni/Dolichorhynchops%20osborni.pdf)
@@ -16,11 +16,13 @@ The estimated or measured length of each region along the main axis is:
 |:------:|:---------:|:---------:|:-------:|:--------:|:-------:|:-------:|:-------:|
 | 500 mm | 603 mm   | 101 mm    | 925 mm | 40 mm    | 1062 mm | 789 mm | 2958 mm |
 
-Measurements of the limbs of FHSM VP404 are cited from [^2]:
+Measurements of the limbs of FHSM VP404 are cited from [^2]. Note that this specimen is mounted with the propodials
+reversed [^3].
 |          | propodial length | chord propodial | total length   |
 |:--------:|:----------------:|:---------------:|:--------------:|
-| forelimb | 336 mm           | 168 mm          |  813 mm |
-| hindlimb | 330 mm           | 187 mm          |  838 mm |
+| forelimb | 330 mm           | 187 mm          |  838 mm |
+| hindlimb | 336 mm           | 168 mm          |  813 mm |
 
 [^1]: [A review of short-necked plesiosaurs from the Cretaceous of the Western Interior, North America](http://dx.doi.org/10.1127/njgpa/201/1996/259)
 [^2]: [An osteological study of *Nyctosaurus* and *Trinacromerum* with a description of a new species of *Nyctosaurus*](https://scholars.fhsu.edu/theses/839/)
+[^3]: [*Polycotylus latipinnis* Cope (Plesiosauria, Polycotylidae), a nearly complete skeleton from the Niobrara Formation (Early Campanian) of southwestern South Dakota](https://doi.org/10.1080/02724634.2015.1031341)
