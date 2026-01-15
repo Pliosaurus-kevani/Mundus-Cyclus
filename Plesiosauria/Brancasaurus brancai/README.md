@@ -15,7 +15,7 @@ This model is based on the holotype of *Brancasaurus brancai* GPMM A3.B4. The BS
 The estimated length of each region along the main axis is:
 | BSL    | cervicals | pectorals | dorsals | sacral 1 | trunk   | tail    | total   |
 |:------:|:---------:|:---------:|:-------:|:--------:|:-------:|:-------:|:-------:|
-| 236 mm | 1265 mm   | 123 mm    | 686 mm | 33 mm    | 840 mm | 705 mm | 3048 mm |
+| 236 mm | 1265 mm   | 123 mm    | 686 mm | 33 mm    | 840 mm | 729 mm | 3072 mm |
 
 Measurements of the limbs of GPMM A3.B4. are cited from [^1]. The length of the forelimb was estimated using the chord-flipper formula provided in [^3]. The estimated value is marked with a $\star$:
 
