@@ -1,7 +1,7 @@
 # *Albertonectes vanderveldei*
 
 - creator: [Ruizhe Jackevan Zhao](https://orcid.org/0009-0001-4869-3008) 
-- last update: 2025/09/11
+- last update: 2026/01/19
 - related manuscript: [Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844)
 - contact: JackevanChaos@outlook.com
 - model link: [*Albertonectes vanderveldei*](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/blob/main/Plesiosauria/Albertonectes%20vanderveldei/Albertonectes%20vanderveldei.pdf)
@@ -18,7 +18,7 @@ and the BSL/SKL ratio of *Thalassomedon hanningtoni* was used to compute the BSL
 The estimated length of each region along the main axis is:
 | BSL    | cervical | pectorals+dorsals+sacral 1 | trunk   | tail    | total    |
 |:------:|:--------:|:--------------------------:|:-------:|:-------:|:--------:|
-| 394 mm | 7131 mm  | 2213 mm                    | 2205 mm | 2384 mm | 12122 mm |
+| 389 mm | 7131 mm  | 2213 mm                    | 2205 mm | 2384 mm | 12117 mm |
 
 Measurements of the limbs are from [^1]. Estimated values (using the chord-flipper formula provided in [^4]) are marked with a $\star$:
 |          | propodial length | chord propodial | total length   |
