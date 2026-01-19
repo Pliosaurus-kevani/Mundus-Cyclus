@@ -1,7 +1,7 @@
 # *Pliosaurus* cf. *kevani* & *P. funkei*
 
 - creator: [Ruizhe Jackevan Zhao](https://orcid.org/0009-0001-4869-3008) 
-- last update: 2025/10/15
+- last update: 2026/01/16
 - related manuscript: [Zhao, 2025](https://doi.org/10.1101/2024.02.15.578844)
 - contact: JackevanChaos@outlook.com
 - model link: [*Pliosaurus* cf. *kevani*](https://github.com/Pliosaurus-kevani/Mundus-Cyclus/blob/main/Plesiosauria/Pliosaurus%20cf.%20kevani%20%26%20funkei/Pliosaurus%20funkei.pdf);
@@ -26,9 +26,9 @@ neck, the average cervical length of CAMSM J. 35990 was calculated as
 $$\text{average} = \dfrac{\text{average length of anterior cervicals} \times 10 + \text{average length of posterior cervicals} \times 9}{19}$$
 
 Neither CAMSMJ.35990 nor PMO214.135 possesses a complete skull, hence the SKLs of them
-were estimated using the skull-neck formula, leading to a 1825 mm result. A comparison
+were estimated using the skull-neck formula, leading to a 1850 mm result. A comparison
 with *P. brachyspondylus* CAMSM J. 35991[^4] was also performed, and the result is 2168 mm. The
-average value (1997 mm) of these two results was taken and set as the SKL of the model.
+average value (2009 mm) of these two results was taken and set as the SKL of the model.
 The BSL was then computed according to the BSL/SKL proportion of *P. kevani* DORCM G. 13675[^6].
 A composite model is proposed for the trunk region. The pectorals were set to 91 mm + 100 mm + 100 mm, a combination of the preserved and measurable ones of PMO 214.135 and
 CAMSM J.35990[^1][^3]. The dorsal series of PMO 214.135 is more complete, hence it was
@@ -41,7 +41,7 @@ The tail length was calculated using the trunk-tail formula, with 5% extra tail 
 The estimated length of each body section is
 | BSL     | cervicals | pectorals | dorsals | sacral 1 | trunk   | tail    | total   |
 |:-------:|:---------:|:---------:|:-------:|:--------:|:-------:|:-------:|:-------:|
-| 1804 mm | 1713 mm   | 320 mm    | 2900 mm | 126 mm   | 3327 mm | 2917 mm | 9780 mm |
+| 1815 mm | 1713 mm   | 320 mm    | 2900 mm | 126 mm   | 3327 mm | 2917 mm | 9791 mm |
 
 The limb measurements are from [^1][^3]. The hindlimbs of PMO 214.135 are not preserved, hence they were restored
 according to the proportion of CAMSM J. 35990. The flipper lengths were estimated using the chord-flipper formula provided in [^8].
