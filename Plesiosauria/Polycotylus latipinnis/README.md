@@ -20,7 +20,7 @@ The estimated length of each body section is
 | 677 mm | 1179 mm   | 184 mm    | 1381 mm | 61 mm   | 1620 mm | 1592 mm | 5074 mm |
 
 The forelimb measurements are from Welles' note. The hindlimbs of YPM 1125 are not preserved, and the dimensions were estimated according to the humerus/femur proportion of LACM 129639[^3]. The flipper lengths estimated using the 
-chord-flipper formula[^4] seem too long and are incompatible with the preserved part of SDSM 23020[^1]. Therefore, the total lengths of the forelimb and hindlimb were reconstructed based on the $\frac{\text{humerus length}}{\text{forelimb length}}$ and $\frac{\text{femur length}}{\text{hindlimb length}}$ ratios of *D. osborni* FHSM VP404. All estimated values are marked with a $\star$:
+chord-flipper formula[^4] seem too long and are incompatible with the preserved part of SDSM 23020[^1]. Therefore, the total lengths of the forelimb and hindlimb were reconstructed based on the $\frac{\text{humerus length}}{\text{forelimb length}}$ and $\frac{\text{femur length}}{\text{hindlimb length}}$ ratios of *D. osborni* FHSM VP404[^5]. All estimated values are marked with a $\star$:
 |          | propodial length | chord propodial | total length   |
 |:--------:|:----------------:|:---------------:|:--------------:|
 | forelimb | 400 mm           | 230 mm          | $\star$ 1016 mm |
